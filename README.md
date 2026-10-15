@@ -1,5 +1,7 @@
 # Lume · Plataforma de aprendizagem corporativa
 
+[![Deploy no GitHub Pages](https://github.com/kethlynmartinez/plataforma-aprendizagem/actions/workflows/deploy.yml/badge.svg)](https://github.com/kethlynmartinez/plataforma-aprendizagem/actions/workflows/deploy.yml)
+
 > **Versão de portfólio.** Todos os dados são fictícios e o back-end é simulado no navegador.
 > Lume é uma marca fictícia. Nenhum dado real de empresa, cliente ou colaborador está neste repositório.
 
