@@ -86,12 +86,6 @@ npm test           # testes
 npm run build      # gera dist/
 ```
 
-## Publicando no GitHub Pages
-
-1. Envie o projeto para a branch `main` de um repositório público.
-2. Em **Settings → Pages**, selecione **Source: GitHub Actions**.
-3. O workflow `.github/workflows/deploy.yml` roda lint, testes e build e publica a cada push.
-
 ## Privacidade
 
 - Nenhum nome, endereço, contato, URL de API, credencial ou dado de cliente da empresa original foi mantido.
