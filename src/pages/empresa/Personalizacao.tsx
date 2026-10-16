@@ -176,7 +176,7 @@ const Personalizacao = () => {
         <div className="min-w-0 space-y-6">
           <section className="card p-6">
             <h2 className="font-sora text-base font-semibold">Marca</h2>
-            <div className="mt-5 grid gap-5 md:grid-cols-2">
+            <div className="mt-5 grid gap-5 2xl:grid-cols-2">
               <Field label="Nome da plataforma" hint="Aparece no portal, no painel e nos certificados." htmlFor="displayName">
                 <input id="displayName" className="field" maxLength={40} value={draft.displayName} onChange={(e) => set({ displayName: e.target.value })} />
               </Field>
